@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a 4th-year software engineering student at the University of Jeddah.
+I love building web apps and learning how things work under the hood
+
+
 <!--
 **rawanAlzahrany/rawanAlzahrany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
