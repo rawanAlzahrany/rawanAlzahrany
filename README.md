@@ -14,9 +14,9 @@ I love building web apps and learning how things work under the hood
 ###
 
 <p align="left">
-✨ Creating bugs since 2023 <br>
-📚 Currently learning React, SQL & Blender <br>
-🎯 Goals: Become a full-stack dev who builds things that actually look good <br>
+ Creating bugs since 2023 ;) <br>
+ Currently learning React, SQL & Blender <br>
+ Goals: Become a full-stack dev who builds things that actually look good and solves problems <br>
 </p>
 
 ###
