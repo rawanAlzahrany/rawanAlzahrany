@@ -45,7 +45,6 @@ I love building web apps and learning how things work under the hood
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
-<img width="40" height="40" alt="Spyder_logo svg" src="https://github.com/user-attachments/assets/08975c0b-0626-4c93-b9c7-fa26fa496a40" />
 
 
 ###
